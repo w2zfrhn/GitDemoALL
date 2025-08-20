@@ -6,4 +6,4 @@ This is commit from second //2nd
 <br>
 and this is change form the vs Code //2nd
 <br>
-#author - Kazi MD. wazeh Ullah farhan
+author - Kazi MD. wazeh Ullah farhan
